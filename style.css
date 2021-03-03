@@ -1,0 +1,55 @@
+title {
+    background-color: black;
+}
+
+body {
+    background: url("https://marketplace.canva.com/EAD29RnUHXo/2/0/800w/canva-turquoise-dogs-and-paw-print-cute-zoom-virtual-background-uiJpWff6HkU.jpg");
+    color: #fff;
+    text-align: center;
+}
+
+.grass {
+    display: inline-block;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyL0hheUSxBSdOuG_0MBpJQQv5Key5k31FCw&usqp=CAU");
+    background-size: contain;
+    border: 2px dotted #fff;
+    margin: 3.5px;
+    border-radius: 6px;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.dirt {
+    background: url("https://miro.medium.com/max/1200/1*d8DyNLUIa8xo5rGrO-2FSg.jpeg");
+    background-size: contain;
+}
+
+.bone {
+    background: url("https://www.pngitem.com/pimgs/m/55-557743_cartoon-dog-bone-png-dog-bone-cartoon-png.png");
+    background-size: contain;
+}
+
+.container {
+    border-radius: 10px;
+    padding: 5px;
+    width: 50px;
+    margin: 3px auto;
+    background-color: darkblue ;
+}
+
+.progress {
+    height: 35px;
+}
+
+.progress-bar {
+    width: 0%;
+}
+
+.dog-won {
+    background: #e53941!important;
+}
+
+.dog-lost {
+    background:#0eb033!important
+}
